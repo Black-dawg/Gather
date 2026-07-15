@@ -1,0 +1,11 @@
+# System & IDE files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build & Dependency Artifacts
+**/node_modules/
+**/target/
+**/dist/
+*.log
